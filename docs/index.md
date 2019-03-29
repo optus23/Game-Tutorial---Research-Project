@@ -6,7 +6,12 @@ Tutorials are probably one of the most important things in the experience of you
 The principal reason why a lot of companies fail desining Tutorials is because their Production Plan is basically centered in other things and are not taken into account at How Teach Player.
 
 Look at this:
+(place picture about popups)
+(place picture about game controller)
 
+This Pop-ups or Game Controller show-ups can't be in these games! But obviously there are a lot of games that are allowed to use this resource that are going to be explained later as well. 
+
+## Teach Gradually Through Experience:
 There are several questions that you must be able to answer about every mechanic of your game:
 * What am I doing?
 * How do I do it?
