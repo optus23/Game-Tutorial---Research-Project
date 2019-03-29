@@ -1,4 +1,7 @@
-# Game Tutorial-Research-Project
-This research comes out from the subject Project II, UPC CITM Terrassa
+﻿# Research Project: Game Tutorial 
 
-By Marc Gálvez Llorens
+
+I am [Marc Gálvez Llorens](https://github.com/optus23) a student of the university [CITM Terrassa](https://www.citm.upc.edu/). This research comes out from the subject Project II, instructed by [Ricard Pillosu](https://github.com/d0n3val).
+
+
+
