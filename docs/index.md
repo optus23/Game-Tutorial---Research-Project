@@ -1,12 +1,21 @@
-# Sprite Ordering and Camera culling
+# Game Tutorial Design
 
-## Sprite Ordering
+## Why Tutorials has bad reputation?
 
-In the evolution of 2D games, there was an instance that we want to recreate a 3D world in 2D. We pass from side and top-down view games to 3/4 and isometric games. In the last two cases, it appears a problem, sprite overlapping. So, we will need to be able to sort sprites dynamically.
+Tutorials are probably one of the most important things in the experience of your game, and guess what... NOBODY CARES!! Well, that's not true at all, there is games like Half life2, Mario, Megman, Spiderman that cares a lot, but we are gonna speak about it later. 
+The principal reason why a lot of companies fail desining Tutorials is because their Production Plan is basically centered in other things and are not taken into account at How Teach Player.
 
-In games like _Super Mario Bros_ or _Hotline Miami_ we can identify a sprite ordering without considering the depths, for example: in Mario we can render the turtle before Mario or vice versa, just follows the order of background->entities->pipes and blocks, the game does not require the sorting of the sprites.
+Look at this:
 
-<img src="https://github.com/christt105/Sprite_Ordering_and_Camera_Culling_Personal_Research/blob/master/docs/web_images/super-mario-bros.gif?raw=true" width="400"/>
+There are several questions that you must be able to answer about every mechanic of your game:
+* What am I doing?
+* How do I do it?
+* Why do I do it?
+* When do I do it?
+Well, those four questions sound very simple but, there's a lot to explain and the player must think that information about every single action in a few milliseconds.
+
+
+
 
 With the same reason, _Hotline Miami_ does not have to sort sprites. We can follow the order of sprites like this: background->furniture->enemies->guns->player.
 
