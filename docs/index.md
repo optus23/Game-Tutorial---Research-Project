@@ -3,13 +3,14 @@
 ## Why Tutorials has bad reputation?
 
 Tutorials are probably one of the most important things in the experience of your game, and guess what... NOBODY CARES!! Well, that's not true at all, there is games like Half life2, Mario, Megman, Spiderman that cares a lot, but we are gonna speak about it later. 
-The principal reason why a lot of companies fail desining Tutorials is because their Production Plan is basically centered in other things and are not taken into account at How Teach Player.
+
+The principal reason why a lot of companies fail desining Tutorials is because their Production Plan is basically centered in other tasks and are not taken into account at How Teach Player. Is soo easy to put a Pop-up that tell player how to play, but not effective at all. So if we put the tutorial design at the beggin of the Gantt Chart, your duties will be think how the level are going to be designed to create a system to teach player without stop the gameplay.
 
 Look at this:
 (place picture about popups)
 (place picture about game controller)
 
-This Pop-ups or Game Controller show-ups can't be in these games! But obviously there are a lot of games that are allowed to use this resource that are going to be explained later as well. 
+This Pop-ups or Game Controller show-ups can't be in these games! They break the gameplay and stay player immersive away. But obviously there are a lot of games that are allowed to use this resource that are going to be explained later as well. 
 
 ## Teach Gradually Through Experience:
 There are several questions that you must be able to answer about every mechanic of your game:
