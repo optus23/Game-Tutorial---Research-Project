@@ -10,7 +10,13 @@ Look at this:
 (place picture about popups)
 (place picture about game controller)
 
-This Pop-ups or Game Controller show-ups can't be in these games! They break the gameplay and stay player immersive away. But obviously there are a lot of games that are allowed to use this resource that are going to be explained later as well. 
+This Pop-ups or Game Controller schemes can't be in these games! They break the gameplay and stay player immersive away. But obviously there are a lot of games that are allowed to use this resource that are going to be explained later as well. 
+
+(place gif about controller prompts)
+
+This happens when developers thinks that it's very hard to find and put every controller and keyboard prompt in his game. But that can frustrate player and it's so important that your game doesn't have this errors, because if player can't continue, you failed as a designer. That's because  I'm gonna give you a totally free pack of prompts assets in the followin [link](https://thoseawesomeguys.com/prompts/):
+
+(place a picture of the prompts)
 
 ## Teach Gradually Through Experience:
 There are several questions that you must be able to answer about every mechanic of your game:
