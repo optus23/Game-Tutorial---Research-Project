@@ -26,6 +26,7 @@ There are several questions that you must be able to answer about every mechanic
 * How do I do it?
 * Why do I do it?
 * When do I do it?
+
 Well, those four questions sound very simple but, there's a lot to explain and the player must think that information about every single action in a few milliseconds.
 
 (place Hotline Maimi gif)
@@ -76,9 +77,24 @@ In all thouse cases the game could told player: "Be carefull with this enemies, 
 
 Let's do an easy exercise to beef up what we learned. Imagine that the video below is the beginin cinematic of a game, describe how and what uses to teach player what is happening, and define the consequences of it. Is a good game tutorial design?
 
+[Video]( https://youtu.be/KQ6zr6kCPj8?t=117)
+
 Answer: In fact, yes is a good introduction design. The video show player one simple but pillar thing thowgh experience, what is gonna happen if the protagonists do the same error as the actually infected guy. So starting from this, the protagonists adquire de dynamic of dancing to pretend beeing infeted to avoid dancing zombies.
 
+## How the player's mind works
 
+The human mind tends to create patterns for absolutely ALL, let's have an interactive exemple to see that in practice.
+
+https://rolloid.net/wp-content/uploads/2016/09/muy-pocas-personas-son-capaces-de-encontrar-todas-las-caras-escondidas-en-esta-imagen-banner-696x364.jpg
+
+How many faces do you see here? The certain is that there is 13 faces designed to be found, but following the pattern that your mind autobuild for your necessity, you can see lots of extra faces not designed for. What if I show this:
+
+(place picture with 3 simple face)
+
+The answer obvioulsy is 3 (beeing creative, the reflex of your face in the screen could count as 4). But, you see how easy and boring was this compared with the picture showed before? Well, that's because the patterns that your mind created was to easy and you has not apparently a reward for this, because its obvious and anyone can do it and that make you seem like the other, not especial.
+
+In the other hand, 
+As designers we must find the best way to teach a minimal part of how to start creating that way to create patrons. Because Tic Tac Toe is a boring game in the long run, but so fun in the beginning? The patterns that our brain creates in Tic Tac Toe when you have been playing for a long time are obvious, therefore, the game stops entertaining, (refer to other games in which this also happens). But this also happens in reverse, that is, the game is frustrating because the bosses are very difficult to think. (Find a balance that makes the player's mind to make a minimum effort and engage the player).
 
 
 
