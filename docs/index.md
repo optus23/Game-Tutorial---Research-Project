@@ -32,6 +32,7 @@ Well, those four questions sound very simple but, there's a lot to explain and t
 
 And you could think, in Chess the player don't has to think faster than the others to win. Yes, but that's not the point. In chess you can prepare the strategy with time, but the basic mechanics of that strategy (Queen movement, Tower movement, etc) have to be thought as faster as you can to resolve it in your mind and improve you strategy.
 
+### Learning Curve
 Let's talk about the learning curve. To teach player your game mechanics it's necessary to situate him in the context, for example if you are going to use the "crouch and shot" connected mechanic in the minute 50, why are you going to show player at the beginning with all the rest of the mechanics? That doesn't make sense, the player will make a mess. So, theach him gradualy, step by step introducin him with no hurries. 
 
 Let's see an example:
@@ -51,6 +52,7 @@ So, theres a few games that shows how to play, before the game starts! What does
 
 When player has to "dash" or "jump" to acced levels, and this knowledge are gonna be used later to play the game, it's nice because that means player has used and acquired this usable mechanics. This usualy happens in Arcade Games like Toto Temple, the game on the picture, but there's other creative ways to set this in other game genders.
 
+### Game Experience
 Now we almost know how to teach gradually, but what about the "throw experience" term? That's simple, if pop-ups stops the inmersion, we have to teach player by other methods like "learning by example" or teach player involving him with scene elements that show (don't tell) what to do. Now, we are going to see a curous example about to games that pretend to teach exacty the same thing but with differents methods:
 
 (place a gif showing Dead Space mechanic)
