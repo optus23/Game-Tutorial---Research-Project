@@ -4,7 +4,7 @@
 
 Tutorials are probably one of the most important things in the experience of your game, and guess what... NOBODY CARES!! Well, that's not true at all, there is games like Half life2, Mario, Megman, Spiderman that cares a lot, but we are gonna speak about it later. 
 
-The principal reason why a lot of companies fail desining Tutorials is because their Production Plan is basically centered in other tasks and are not taken into account at How Teach Player. Is soo easy to put a Pop-up that tell player how to play, but not effective at all. So if we put the tutorial design at the beggin of the Gantt Chart, your duties will be think how the level are going to be designed to create a system to teach player without stop the gameplay.
+The principal reason why a lot of companies fail desining Tutorials is because their Production Plan is basically centered in other tasks and are not taken into account at How to Teach Player and at the end, designers don't have time to think and design a good tutorial. Is soo easy to put a Pop-up that tells how to play, but is not effective at all. So if we put the tutorial design at the beggin of the Gantt Chart, your duties will be think how the level are going to be designed to create a system to teach player without stop the gameplay.
 
 Look at this:
 (place picture about popups)
@@ -47,12 +47,24 @@ So, theres a few games that shows how to play, before the game starts! What does
 
 When player has to "dash" or "jump" to acced levels, and this knowledge are gonna be used later to play the game, it's nice because that means player has used and acquired this usable mechanics. This usualy happens in Arcade Games like Toto Temple, the game on the picture, but there's other creative ways to set this in other game genders.
 
-Now almost know how to teach gradually, but what about the "throw experience" term? That's simple, if pop-ups stops the inmersion, we have to teach player by other methods like "learning by example" or showing player involving him with scene elements that show (don't tell) what to do. 
+Now we almost know how to teach gradually, but what about the "throw experience" term? That's simple, if pop-ups stops the inmersion, we have to teach player by other methods like "learning by example" or teach player involving him with scene elements that show (don't tell) what to do. Now, we are going to see a curous example about to games that pretend to teach exacty the same thing but with differents methods:
 
+(place a gif showing Dead Space mechanic)
 
+As you see, in Dead Space, your character has to dismember the enemies shooting them right in ahead. How do you theach the player this mechanic? Well, if you don't have time to think a creative way to teach player what to do, you just gonna put some text in a wall to tell (don't show) player: "Cut off yout limbs" on a white board, followed by a pop-up that tells you how to cut off their limbs, followed by audio log that basically tells you the same thing, folowed by another audio log that tells you the exact same thing and FINALLY a Pop-up called "dismemberment" that... tells you the same thing! Thats Horrible. I mean, put some blood text in the wall giving you some hints is it okay, buy spam information about the exactlly same thing its awkward.
 
+The thing is that a few years later, 4 years to be right, a little game come out called Half Life2, that did the exact same thing, and the first thing they do is put an image in your mind of a dimembered body by showing you this:
 
+(place Half Life 2 gif dismembered body)
 
+And when you try to keep moving, you see a table stopping your path, so, you jump on it and... 2 saw blades appear in you perspective vision. So, when you pick up one of them, instantly a zombi appears in your first view, and your first reaction is to press the fire button, so you shoot zombie and see what effective this is. THATS a good Tutorial Design, Valve teach player without pop-us, audios, wall text, and the most important is that they do it in a half time that Dead Space do.
+
+There is more examples about the good Design showed gradually by experience of Half Life 2:
+
+(place birds)
+(place barrles)
+
+In all thouse cases the game could told player: "Be carefull with this enemies, or combine explosive barrels with this enemiy to make'em explode" but, no, the conclusion is don't trate your players like morons.
 
 
 
