@@ -18,7 +18,9 @@ This happens when developers thinks that it's very hard to find and put every co
 
 (place a picture of the prompts)
 
-## Teach Gradually Through Experience:
+## Teach Gradually Through Experience
+
+### Think about the Mechanic
 There are several questions that you must be able to answer about every mechanic of your game:
 * What am I doing?
 * How do I do it?
@@ -27,6 +29,8 @@ There are several questions that you must be able to answer about every mechanic
 Well, those four questions sound very simple but, there's a lot to explain and the player must think that information about every single action in a few milliseconds.
 
 (place Hotline Maimi gif)
+
+And you could think, in Chess the player don't has to think faster than the others to win. Yes, but that's not the point. In chess you can prepare the strategy with time, but the basic mechanics of that strategy (Queen movement, Tower movement, etc) have to be thought as faster as you can to resolve it in your mind and improve you strategy.
 
 Let's talk about the learning curve. To teach player your game mechanics it's necessary to situate him in the context, for example if you are going to use the "crouch and shot" connected mechanic in the minute 50, why are you going to show player at the beginning with all the rest of the mechanics? That doesn't make sense, the player will make a mess. So, theach him gradualy, step by step introducin him with no hurries. 
 
@@ -65,6 +69,14 @@ There is more examples about the good Design showed gradually by experience of H
 (place barrles)
 
 In all thouse cases the game could told player: "Be carefull with this enemies, or combine explosive barrels with this enemiy to make'em explode" but, no, the conclusion is don't trate your players like morons.
+
+### Execice 1
+
+Let's do an easy exercise to beef up what we learned. Imagine that the video below is the beginin cinematic of a game, describe how and what uses to teach player what is happening, and define the consequences of it. Is a good game tutorial design?
+
+Answer: In fact, yes is a good introduction design. The video show player one simple but pillar thing thowgh experience, what is gonna happen if the protagonists do the same error as the actually infected guy. So starting from this, the protagonists adquire de dynamic of dancing to pretend beeing infeted to avoid dancing zombies.
+
+
 
 
 
