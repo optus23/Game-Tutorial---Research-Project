@@ -93,8 +93,23 @@ How many faces do you see here? The certain is that there is 13 faces designed t
 
 The answer obvioulsy is 3 (beeing creative, the reflex of your face in the screen could count as 4). But, you see how easy and boring was this compared with the picture showed before? Well, that's because the patterns that your mind created was to easy and you has not apparently a reward for this, because its obvious and anyone can do it and that make you seem like the other, not especial.
 
-In the other hand, 
-As designers we must find the best way to teach a minimal part of how to start creating that way to create patrons. Because Tic Tac Toe is a boring game in the long run, but so fun in the beginning? The patterns that our brain creates in Tic Tac Toe when you have been playing for a long time are obvious, therefore, the game stops entertaining, (refer to other games in which this also happens). But this also happens in reverse, that is, the game is frustrating because the bosses are very difficult to think. (Find a balance that makes the player's mind to make a minimum effort and engage the player).
+In the other hand, if I show you this:
+
+(place a picture of a mess line)
+
+You will probabbly frustrate after 1h searching faces, so the patterns that your mind create for understend the mechanism to find faces of this picture, will be insufficient. That gonna make player rage quit in less that 5 minutes. Do not mix up with games like Super meat boy or Dark Souls, that games are difficult but not unfair. And has one of the best learning curves of all time. The thing is find a balance that makes player's mind make a minimum effort to engage the player.
+
+(place here a gif of dark souls and super meat boy)
+
+There are game like "Trap Adventure 2" that are difficult and unfair, this is bad design? No, if your selling points are all enfocated to be an unfair challenge, in other words, you are preventing player that game is gonna be. The name itself, says it all.
+
+(place here a gif of trap adventure)
+
+As designers we must find the best way to teach a minimal part of how start creating that way to create patterns, as we saw with the faces, the game Tic Tac Toe is so fun in the beginning, but a boring game in the long run. The patterns that our brain creates in Tic Tac Toe when you have been playing for a long time are obvious, therefore, the game stops entertaining.
+
+(place a photo of tic tac toe)
+
+ ## Emergent Gameplay
 
 
 
