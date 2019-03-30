@@ -26,6 +26,66 @@ There are several questions that you must be able to answer about every mechanic
 * When do I do it?
 Well, those four questions sound very simple but, there's a lot to explain and the player must think that information about every single action in a few milliseconds.
 
+(place Hotline Maimi gif)
+
+Let's talk about the learning curve. To teach player your game mechanics it's necessary to situate him in the context, for example if you are going to use the "crouch and shot" connected mechanic in the minute 50, why are you going to show player at the beginning with all the rest of the mechanics? That doesn't make sense, the player will make a mess. So, theach him gradualy, step by step introducin him with no hurries. 
+
+Let's see an example:
+
+(place mega man pictures & explained)
+
+So, theres a few games that shows how to play, before the game starts! What does it mean? It's basically an interactive main menu and... thats correct! Is an strange way to teach player but, viable. Here is an example:
+
+(place here a picture of Toto Temple Delux, Main menu)
+
+When player has to "dash" or "jump" to acced levels, and this knowledge are gonna be used later to play the game, it's nice because that means player has used and acquired this usable mechanics. This usualy happens in Arcade Games like Toto Temple, the game on the picture, but there's other creative ways to set this in other game genders.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
