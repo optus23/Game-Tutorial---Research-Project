@@ -159,7 +159,7 @@ This is the definition of teach player as of tension, the freefall or the train 
 
 ## Extrem cases of tutorial
 
-Mario, Portal, Spiderman, Megaman... are extream tutorial games, that means 90% of the game is about teach through experience and gradually. In this case we are going to talk about every step that makes mario in the beginning. This Game example is a masterpiece of level design, everything you see in the first level teaches you to play without telling you absolutely nothing.
+Mario, Portal, Spiderman, Megaman... are extream tutorial games, that means 90% of the game is about "Teach Gradually Through Experience". In this case we are going to talk about every step that makes mario in the beginning. This Game example is a masterpiece of level design, everything you see in the first level teaches you to play without telling you absolutely nothing.
 
 ### Super Mario Bros, example
 
@@ -213,7 +213,22 @@ In fact, the tutorial is the same, but for the type of player it doesn't feel li
 
 So, don't do large unskippable tutorials because the advanced player will know how to play before the tutorial, either played all saga games or whatever. Make an experience level design and let players learn through experience.
 
+## Exercice 2
 
+Put into practice what you have learned before:
+-First of all, place the tutorial design on your Gantt Chart. 
+-Think about what kind of game you have and what techniques you will use to teach the player. 
+-Finally, apply them for each mechanic if your game.
+
+* Answer:
+
+(place a picture of room 1 Final fantasy)
+
+This picture is about the first room of our Game, Final Fantasy mystery world by Polar Path. As we can see in Super Mario Bros, there's nothing more than one side to go, in this case the opened door. So, the player will try to move around and reach the exit.
+
+(place a picture of room 2)
+
+This is the second room of our game, where the player is supposed to learn how move diagonally. Here, the player will see at first time an enemy walking on the top (2nd floor), anticipate player is important. He will learn about what black tiles, hooked out of level, does and finally the enemy will do the action, move diagonal. This event will be near the zone where the player has to do the diagonal pass. The enemy will walk until the other black tile in the 2nd floor.
 
 
 
