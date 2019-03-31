@@ -157,6 +157,9 @@ This is the definition of teach player as of tension, the freefall or the train 
 * Give player a safe space: People could think better.
 * Teach players killing them: People could think faster.
 
+## Extrem cases of tutorial
+
+
 ## Niche, and types of Target
 
 ### MMORPG
@@ -168,6 +171,19 @@ As we know, MMORPG are games designed to the grind, the target of this companies
 Because there are competitive people that, to earn a "Legendary Reward" can be hour killing the same boss. It's easy, this target, this kind of people exists, and companies like Blizzard know this. Well, let's talk about how tutroial works on that multiplayer platforms. As we said before, the MMORPG games have a peculiar way to teach players. Basically the designers of this games know the target to which it is addressed the game, so, why waste time and money designin a "dynamic tutorial" as we saw in Mario, if the target are going to play anyway. If the company made an epic tutorial, a lot of new people will enter, but in the long run these people don't gonna love the grind style and get out. In conclusion, if games like WOW had dynamic tutorials they will lose time and money.
 
 ### Shooter and Action rol Games
+
+The shooters or role-playing games seeks to enhance level design. As we have commented before, this is the perfect kind of games that uses Showing Gradually Through Experience. Other kind of target that uses this are Roguelike or Soulslike. There's some examples:
+
+(place a picture of skyrim, explain it)
+
+(place a gif of Hollowknight, explain it)
+
+### Same tutorial for Advanced and Rookie people?
+
+In fact, the tutorial is the same, but for the type of player it doesn't feel like the same. For example, if there's a fallen tree on the road and designers want to transmet you that player has to jump or crawl to avoid it, the advanced player will pass in over 3s, but the rookie will stay a little bit more.
+
+So, don't do large unskippable tutorials because the advanced player will know how to play before the tutorial, either played all saga games or whatever. Make an experience level design and let players learn through experience.
+
 
 
 
