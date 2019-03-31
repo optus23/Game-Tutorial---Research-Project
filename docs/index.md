@@ -1,8 +1,9 @@
-# Game Tutorial Design
 
 ## Why Tutorials has bad reputation?
 
-Tutorials are probably one of the most important things in the experience of your game, and guess what... NOBODY CARES!! Well, that's not true at all, there is games like Half life2, Mario, Megman, Spiderman that cares a lot, but we are gonna speak about it later. 
+Tutorials are probably one of the most important things in the experience of your game, and guess what... NOBODY CARES!! 
+
+Well, that's not true at all, there is games like Half life2, Mario, Megman, Spiderman that cares a lot, but we are gonna speak about it later. 
 
 The principal reason why a lot of companies fail desining Tutorials is because their Production Plan is basically centered in other tasks and are not taken into account at How to Teach Player and at the end, designers don't have time to think and design a good tutorial. Is soo easy to put a Pop-up that tells how to play, but is not effective at all. So if we put the tutorial design at the beggin of the Gantt Chart, your duties will be think how the level are going to be designed to create a system to teach player without stop the gameplay.
 
@@ -111,7 +112,13 @@ As designers we must find the best way to teach a minimal part of how start crea
 
  ## Emergent Gameplay
 
+So, once time you know how to theach patterns player, to improve the gameplay, so many games need the EMERGENT gameplay. What does this means? Easy, it means give player a lot of posibilities to reach the objective, in Zelda breath of the Wild you can kill an enemy by different ways, didn't you? Generally these games are Sand Box, like Skyrim, Whatch dogs or Red Dead Redemtion.
 
+(place here a photo with breath of the wild emergently gamelay)
+
+That's it, create a way to make player think about what mechanics are gonna use to kill this set of bats and what mechanics are you gonna use to kill that big skeleton finnal boss. If the mechanic are always the same, according to what we have learned, the pattern will be monotonnous, I mean, so easy to create, and finally the game boring.
+
+But what about Tetris? This is a game with 
 
 
 
