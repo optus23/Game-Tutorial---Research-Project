@@ -123,7 +123,7 @@ The multiplayer section is the definition of emergent gameplay, because all game
 
 (place overwhatch tutorial)
 
-The easy way to teach player how to play in multiplayer is playing the single player, don't you? But of course there are game that don't have single player, like overwatch. So, he uses a previous "singleplayer" tutorial introducing player the game pillar mechanics gradually with one character. And you gonna think... what about the popole who know how to play, has to play the turorial? No, it will be boring for you, so, all kind of tutorial like Overwatch must be skippeable.
+The easy way to teach player how to play in multiplayer is playing the single player, don't you? But of course there are game that don't have single player, like overwatch. So, he uses a previous "singleplayer" tutorial introducing player the game pillar mechanics gradually with one character. And you gonna think... what about the popole who know how to play, has to play the turorial? No, it will be boring for you, so, all kind of tutorial like Overwatch must be skippeable. Also, games like Wow are totaly a surprise to Game Tutorial Design, but that are gonna be talked in the "Niche, and types of Target" section.
 
 ### Why is Tetris a mathematically perfect game design that requires no tutorial?
 
@@ -159,10 +159,15 @@ This is the definition of teach player as of tension, the freefall or the train 
 
 ## Niche, and types of Target
 
+### MMORPG
+
 As we know, MMORPG are games designed to the grind, the target of this companies are types of person that likes role playing and farming trough repetitives patterns. But, as we said before the repetition of the same pattern makes the game boring, why these game have millions of players?
 
 (place here wow picture lots of players)
 
+Because there are competitive people that, to earn a "Legendary Reward" can be hour killing the same boss. It's easy, this target, this kind of people exists, and companies like Blizzard know this. Well, let's talk about how tutroial works on that multiplayer platforms. As we said before, the MMORPG games have a peculiar way to teach players. Basically the designers of this games know the target to which it is addressed the game, so, why waste time and money designin a "dynamic tutorial" as we saw in Mario, if the target are going to play anyway. If the company made an epic tutorial, a lot of new people will enter, but in the long run these people don't gonna love the grind style and get out. In conclusion, if games like WOW had dynamic tutorials they will lose time and money.
+
+### Shooter and Action rol Games
 
 
 
