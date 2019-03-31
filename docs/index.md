@@ -118,7 +118,19 @@ So, once time you know how to theach patterns player, to improve the gameplay, s
 
 That's it, create a way to make player think about what mechanics are gonna use to kill this set of bats and what mechanics are you gonna use to kill that big skeleton finnal boss. If the mechanic are always the same, according to what we have learned, the pattern will be monotonnous, I mean, so easy to create, and finally the game boring.
 
-But what about Tetris? This is a game with 
+### Why is Tetris a mathematically perfect game design that requires no tutorial?
+
+Tetris has one of the best designs, created ever. That game doesent need TUTORIAL, well, the real thing is that the whole game is a perfect tutorial. At the beginning, the pieces fall down relatively slow to let player think about what to do whit them, the mechanics are so so so simples, move and rotate, that's it. Every single person has a minimum of TOC inside, so if player knows how to move and rotate pieces, why shouldn't be ordered? Thats how Tetris teach you indirectly.
+
+(place here a picture of Tetrisat the beggining)
+
+That's not all, also, Tetris has a powerfull emergent gameplay! With only two mechanics, tetris gives you the opportunity to go A->B in multiples ways.
+
+### Other games like Tetris?
+
+Games like Osu or Stepmania don't have emergent gameplay, why? That's because these games has one simple objective, survive and reach the end with less mistakes as possible. And... this games have a bad Design? Absolutely no, the goal here is simple, dominate the only basic mechanic as much as you can to did the best. That's why there is no emergent gameplay, because the player only has one way to win, but the thing is dominate that game. 
+
+
 
 
 
