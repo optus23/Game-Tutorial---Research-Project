@@ -185,7 +185,9 @@ When jumping on one of the blinking blocks we see that a strange mushroom with t
 
 This game is very functional, every single level of Super Mario Bros is like this steps, all tech player by experience.
 
+### 80's 90's Games resources
 
+That question that im gonna ask is a little bit philosofical. Are Super Mario Bros a good tutorial design game due to the few resources? I mean, at the beginning of the Game Industry, games like Mega man has to use every single pixel has to show the entire game without a lot of resources because they were limited, so the designers spent a lot of time thinking about how build the level to show player without text... Well, surely it will be yes. But thanks to this, now we have the games that we have, I think.
 
 ## Niche, and types of Target
 
