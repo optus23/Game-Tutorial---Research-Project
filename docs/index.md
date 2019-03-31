@@ -11,8 +11,9 @@ Well, that's not true at all, there is games like Half life2, Mario, Megman, Spi
 The principal reason why a lot of companies fail desining Tutorials is because their Production Plan is basically centered in other tasks and are not taken into account at How to Teach Player and at the end, designers don't have time to think and design a good tutorial. Is soo easy to put a Pop-up that tells how to play, but is not effective at all. So if we put the tutorial design at the beggin of the Gantt Chart, your duties will be think how the level are going to be designed to create a system to teach player without stop the gameplay.
 
 Look at this:
-(place picture about popups) done
-(place picture about game controller) done
+
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/Far-Cry-Primal-Tame-Beasts.jpg?raw=true" width="600"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/jjy8rwhxhbay.png?raw=true" width="600"/>
 
 Who reads this? This Pop-ups or Game Controller schemes can't be in these games! They break the gameplay and stay player immersive away. But obviously there are a lot of games that are allowed to use this resource that are going to be explained later as well. 
 
@@ -120,7 +121,9 @@ As designers we must find the best way to teach a minimal part of how start crea
 
 So, once time you know how to theach patterns player to improve the gameplay, almost all games need EMERGENT gameplay. What does this means? Easy, it means give player a lot of posibilities to reach the same objective, in Zelda breath of the Wild you can kill an enemy by different ways, didn't you? Generally these games are Sand Box, like Skyrim, Whatch dogs or Red Dead Redemtion.
 
-(place here a photo with breath of the wild emergently gamelay)
+(place here a photo with breath of the wild emergently gamelay) done
+
+(place A-B images)
 
 That's it, create a way to make player think about what mechanics are gonna use to kill this set of bats and what mechanics are you gonna use to kill that big skeleton finnal boss. If the mechanic are always the same, according to what we have learned, the pattern will be monotonnous, in other words, so easy to create, and finally the game boring. But does all games need emergent gameplay? We are gonnna talk it later.
 
