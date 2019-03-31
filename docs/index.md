@@ -100,13 +100,13 @@ The human mind tends to create patterns for absolutely ALL, let's have an intera
 
 How many faces do you see here? The certain is that there is 13 faces designed to be found, but following the pattern that your mind autobuild for your necessity, you can see lots of extra faces not designed for. What if I show this:
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/sss.jpg?raw=true" width="500"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/sss.png?raw=true" width="500"/>
 
 The answer obvioulsy is 3 (beeing creative, the reflex of your face in the screen could count as 4). But, you see how easy and boring was this compared with the picture showed before? Well, that's because the patterns that your mind created was to easy and you has not apparently a reward for this, because its obvious and anyone can do it and that make you seem like the other, not especial.
 
 In the other hand, if I show you this:
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/sdsdsdsdsd.jpg?raw=true" width="500"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/sdsdsdsdsd.png?raw=true" width="500"/>
 
 You will probabbly frustrate after 1h searching faces, so the patterns that your mind create for understend the mechanism to find faces of this picture, will be insufficient. That gonna make player rage quit in less that 5 minutes. Do not mix up with games like Super meat boy or Dark Souls, that games are difficult but not unfair. And has one of the best learning curves of all time. The thing is find a balance that makes player's mind make a minimum effort to engage the player.
 
