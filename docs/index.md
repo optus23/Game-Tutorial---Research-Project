@@ -86,6 +86,8 @@ In all thouse cases the game could told player: "Be carefull with this enemies, 
 Let's do an easy exercise to beef up what we learned. Imagine that the video below is the beginin cinematic of a game, describe how and what uses to teach player what is happening, and define the consequences of it. Is a good game tutorial design?
 
 [Video]( https://youtu.be/KQ6zr6kCPj8?t=117)
+
+
 <img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/08c5d223b91f21021c1349135398ac2c.jpg?raw=true" width="500"/>
 
 Answer: In fact, yes is a good introduction design. The video show player one simple but pillar thing thowgh experience, what is gonna happen if the protagonists do the same error as the actually infected guy. So starting from this, the protagonists adquire de dynamic of dancing to pretend beeing infeted to avoid dancing zombies.
@@ -129,9 +131,11 @@ So, once time you know how to theach patterns player to improve the gameplay, al
 That's it, create a way to make player think about what mechanics are gonna use to kill this set of bats and what mechanics are you gonna use to kill that big skeleton finnal boss. If the mechanic are always the same, according to what we have learned, the pattern will be monotonnous, in other words, so easy to create, and finally the game boring. 
 
 The change is this:
+
 <img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/picture1.jpg?raw=true" width="500"/>
 
 to this:
+
 <img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/picture6.jpg?raw=true" width="500"/>
 
 But does all games need emergent gameplay? We are gonnna talk it later.
@@ -246,11 +250,11 @@ Put into practice what you have learned before:
 
 * Answer:
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/sssssssjpg?raw=true" width="500"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/sssssss.png?raw=true" width="500"/>
 
 This picture is about the first room of our Game, Final Fantasy mystery world by Polar Path. As we can see in Super Mario Bros, there's nothing more than one side to go, in this case the opened door. So, the player will try to move around and reach the exit.
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/sssddsss.jpg?raw=true" width="500"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/sssddsss.png?raw=true" width="500"/>
 
 This is the second room of our game, where the player is supposed to learn how move diagonally. Here, the player will see at first time an enemy walking on the top (2nd floor), anticipate player is important. He will learn about what black tiles, hooked out of level, does and finally the enemy will do the action, move diagonal. This event will be near the zone where the player has to do the diagonal pass. The enemy will walk until the other black tile in the 2nd floor.
 
