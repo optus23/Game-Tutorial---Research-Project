@@ -12,16 +12,16 @@ The principal reason why a lot of companies fail desining Tutorials is because t
 
 Look at this:
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/Far-Cry-Primal-Tame-Beasts.jpg?raw=true" width="600"/>
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/jjy8rwhxhbay.png?raw=true" width="600"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/Far-Cry-Primal-Tame-Beasts.jpg?raw=true" width="500"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/jjy8rwhxhbay.png?raw=true" width="500"/>
 
 Who reads this? This Pop-ups or Game Controller schemes can't be in these games! They break the gameplay and stay player immersive away. But obviously there are a lot of games that are allowed to use this resource that are going to be explained later as well. 
 
-(place gif about controller prompts) done
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/This is a Talk About Tutorials_ Press A to Skip 03.gif?raw=true" width="500"/>
 
 This happens when developers thinks that it's very hard to find and put every controller and keyboard prompt in his game. But that can frustrate player and it's so important that your game doesn't have this errors, because if player can't continue, you failed as a designer. That's because  I'm gonna give you a totally free pack of prompts assets in the followin [link](https://thoseawesomeguys.com/prompts/):
 
-(place a picture of the prompts) done
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/Preview_0.gif?raw=true" width="400"/>
 
 ## Teach Gradually Through Experience
 
@@ -34,8 +34,7 @@ There are several questions that you must be able to answer about every mechanic
 
 Well, those four questions sound very simple but, there's a lot to explain and the player must think that information about every single action in a few milliseconds.
 
-(place Hotline Maimi gif) done
-
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/1480960007_11714.gif?raw=true" width="500"/>
 And you could think, in Chess the player don't has to think faster than the others to win. Yes, but that's not the point. In chess you can prepare the strategy with time, but the basic mechanics of that strategy (Queen movement, Tower movement, etc) have to be thought as faster as you can to resolve it in your mind and improve you strategy.
 
 ### Learning Curve
@@ -43,7 +42,7 @@ Let's talk about the learning curve. To teach player your game mechanics it's ne
 
 Let's see an example:
 
-(place mega man pictures & explained) done
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/freegifmaker.me_2eQsM.gif?raw=true" width="500"/>
 
 Here, the developers of Mega man wanted to show a unique mechanic thorough the experience, the player see the platform functionality and is been anticipated. The next time megaman touches a plataform like that, you as a player will know how these things act.
 
