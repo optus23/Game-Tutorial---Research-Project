@@ -1,5 +1,5 @@
 
-## Why Tutorials has bad reputation?
+## Why Tutorials have bad reputation?
 
 Tutorials are probably one of the most important things in the experience of your game, and guess what... NOBODY CARES!! 
 
@@ -118,6 +118,13 @@ So, once time you know how to theach patterns player to improve the gameplay, al
 
 That's it, create a way to make player think about what mechanics are gonna use to kill this set of bats and what mechanics are you gonna use to kill that big skeleton finnal boss. If the mechanic are always the same, according to what we have learned, the pattern will be monotonnous, in other words, so easy to create, and finally the game boring. But does all games need emergent gameplay? We are gonnna talk it later.
 
+### Multiplayer
+The multiplayer section is the definition of emergent gameplay, because all games (or the 99,99%) are designed to be reached, to let player win. But in multiplayer gameplay this is not even true! For exemple, battle royal has designed to only let win the 1% of all the players in the same match, so, EVERY SINGLE play will be different. You see now how this is the paradise of the emergent gameplay? Every single human act differently, that's why the multiplayer si famous. How to introuduce player to the multiplayer section? Easy:
+
+(place overwhatch tutorial)
+
+The easy way to teach player how to play in multiplayer is playing the single player, don't you? But of course there are game that don't have single player, like overwatch. So, he uses a previous "singleplayer" tutorial introducing player the game pillar mechanics gradually with one character. And you gonna think... what about the popole who know how to play, has to play the turorial? No, it will be boring for you, so, all kind of tutorial like Overwatch must be skippeable.
+
 ### Why is Tetris a mathematically perfect game design that requires no tutorial?
 
 Tetris has one of the best designs created ever. That game doesen't need TUTORIAL, well, the real thing is that the whole game is a perfect tutorial. At the beginning, the pieces fall down relatively slow to let player think about what to do whit them, the mechanics are so so so simples, move and rotate, that's it. Every single person has a minimum of TOC inside, so if player knows how to move and rotate pieces, why shouldn't be ordered? Thats how Tetris teach you indirectly.
@@ -128,7 +135,9 @@ That's not all, also Tetris has a powerfull emergent gameplay! With only two mec
 
 ### Other games like Tetris?
 
-Games like Osu or Stepmania don't have emergent gameplay, why? That's because these games has one simple objective, survive and reach the end with less mistakes as possible. And... this games have a bad Design? Absolutely no, the goal here is simple, dominate the only basic mechanic as much as you can to did the best. That's why there is no emergent gameplay, because the player only has one way to win, but the thing is dominate that game. 
+Games like Osu, Geometry Dash or Stepmania don't have emergent gameplay, why? That's because these games has one simple objective, survive and reach the end with less mistakes as possible. And... this games have a bad Design? Absolutely no, the goal here is simple, dominate the only basic mechanic as much as you can to did the best. That's why there is no emergent gameplay, because the player only has one way to win, but the thing is dominate that game. 
+
+(place a gif of osu and stepmania)
 
 ## Safe Space
 
@@ -148,6 +157,9 @@ This is the definition of teach player as of tension, the freefall or the train 
 * Give player a safe space: People could think better.
 * Teach players killing them: People could think faster.
 
+## Niche, and types of Target
+
+As we know, MMORPG are games designed to the grind, the target of this companies are types of person that likes role playing and farming trough repetitives patterns. But, as we said before the repetition of the same pattern makes the game boring, why these game have millions of players? 
 
 
 
