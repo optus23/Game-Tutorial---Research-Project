@@ -112,23 +112,41 @@ As designers we must find the best way to teach a minimal part of how start crea
 
  ## Emergent Gameplay
 
-So, once time you know how to theach patterns player, to improve the gameplay, so many games need the EMERGENT gameplay. What does this means? Easy, it means give player a lot of posibilities to reach the objective, in Zelda breath of the Wild you can kill an enemy by different ways, didn't you? Generally these games are Sand Box, like Skyrim, Whatch dogs or Red Dead Redemtion.
+So, once time you know how to theach patterns player to improve the gameplay, almost all games need EMERGENT gameplay. What does this means? Easy, it means give player a lot of posibilities to reach the same objective, in Zelda breath of the Wild you can kill an enemy by different ways, didn't you? Generally these games are Sand Box, like Skyrim, Whatch dogs or Red Dead Redemtion.
 
 (place here a photo with breath of the wild emergently gamelay)
 
-That's it, create a way to make player think about what mechanics are gonna use to kill this set of bats and what mechanics are you gonna use to kill that big skeleton finnal boss. If the mechanic are always the same, according to what we have learned, the pattern will be monotonnous, I mean, so easy to create, and finally the game boring.
+That's it, create a way to make player think about what mechanics are gonna use to kill this set of bats and what mechanics are you gonna use to kill that big skeleton finnal boss. If the mechanic are always the same, according to what we have learned, the pattern will be monotonnous, in other words, so easy to create, and finally the game boring. But does all games need emergent gameplay? We are gonnna talk it later.
 
 ### Why is Tetris a mathematically perfect game design that requires no tutorial?
 
-Tetris has one of the best designs, created ever. That game doesent need TUTORIAL, well, the real thing is that the whole game is a perfect tutorial. At the beginning, the pieces fall down relatively slow to let player think about what to do whit them, the mechanics are so so so simples, move and rotate, that's it. Every single person has a minimum of TOC inside, so if player knows how to move and rotate pieces, why shouldn't be ordered? Thats how Tetris teach you indirectly.
+Tetris has one of the best designs created ever. That game doesen't need TUTORIAL, well, the real thing is that the whole game is a perfect tutorial. At the beginning, the pieces fall down relatively slow to let player think about what to do whit them, the mechanics are so so so simples, move and rotate, that's it. Every single person has a minimum of TOC inside, so if player knows how to move and rotate pieces, why shouldn't be ordered? Thats how Tetris teach you indirectly.
 
 (place here a picture of Tetrisat the beggining)
 
-That's not all, also, Tetris has a powerfull emergent gameplay! With only two mechanics, tetris gives you the opportunity to go A->B in multiples ways.
+That's not all, also Tetris has a powerfull emergent gameplay! With only two mechanics, tetris gives you the opportunity to go A->B in multiples ways.
 
 ### Other games like Tetris?
 
 Games like Osu or Stepmania don't have emergent gameplay, why? That's because these games has one simple objective, survive and reach the end with less mistakes as possible. And... this games have a bad Design? Absolutely no, the goal here is simple, dominate the only basic mechanic as much as you can to did the best. That's why there is no emergent gameplay, because the player only has one way to win, but the thing is dominate that game. 
+
+## Safe Space
+
+Is it obvious that videogames need a safe space to tech player? I think no, in lots of games there is a safe space to let player try mechanics and test all buttons, but also, in the other hand are game that use other ways to enhance player knowledge and learning curve.
+
+(place photo about Pokemon)
+
+If you ever tryed to play pokemon, at the beggining you can't acced to the high grass because you don't have your frendly Pokemon, that's a beatyful way to teach people gradualy and let player a very big safe space to do whatever before learn the fight mechanics.
+
+But what about this:
+
+(place a gif about Spiderman)
+(place a gif about Uncharted Train Begin)
+
+This is the definition of teach player as of tension, the freefall or the train coming down are two ways to tell player, if you don't act NOW, you are gonna die, so players will pretend to leant as fast as they can to survive. In conclusion, there are two methods to start teaching: 
+
+* Give player a safe space: People could think better.
+* Teach players killing them: People could think faster.
 
 
 
