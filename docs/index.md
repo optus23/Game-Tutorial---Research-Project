@@ -159,7 +159,11 @@ This is the definition of teach player as of tension, the freefall or the train 
 
 ## Niche, and types of Target
 
-As we know, MMORPG are games designed to the grind, the target of this companies are types of person that likes role playing and farming trough repetitives patterns. But, as we said before the repetition of the same pattern makes the game boring, why these game have millions of players? 
+As we know, MMORPG are games designed to the grind, the target of this companies are types of person that likes role playing and farming trough repetitives patterns. But, as we said before the repetition of the same pattern makes the game boring, why these game have millions of players?
+
+(place here wow picture lots of players)
+
+
 
 
 
