@@ -11,16 +11,16 @@ Well, that's not true at all, there is games like Half life2, Mario, Megman, Spi
 The principal reason why a lot of companies fail desining Tutorials is because their Production Plan is basically centered in other tasks and are not taken into account at How to Teach Player and at the end, designers don't have time to think and design a good tutorial. Is soo easy to put a Pop-up that tells how to play, but is not effective at all. So if we put the tutorial design at the beggin of the Gantt Chart, your duties will be think how the level are going to be designed to create a system to teach player without stop the gameplay.
 
 Look at this:
-(place picture about popups)
-(place picture about game controller)
+(place picture about popups) done
+(place picture about game controller) done
 
-This Pop-ups or Game Controller schemes can't be in these games! They break the gameplay and stay player immersive away. But obviously there are a lot of games that are allowed to use this resource that are going to be explained later as well. 
+Who reads this? This Pop-ups or Game Controller schemes can't be in these games! They break the gameplay and stay player immersive away. But obviously there are a lot of games that are allowed to use this resource that are going to be explained later as well. 
 
-(place gif about controller prompts)
+(place gif about controller prompts) done
 
 This happens when developers thinks that it's very hard to find and put every controller and keyboard prompt in his game. But that can frustrate player and it's so important that your game doesn't have this errors, because if player can't continue, you failed as a designer. That's because  I'm gonna give you a totally free pack of prompts assets in the followin [link](https://thoseawesomeguys.com/prompts/):
 
-(place a picture of the prompts)
+(place a picture of the prompts) done
 
 ## Teach Gradually Through Experience
 
@@ -33,7 +33,7 @@ There are several questions that you must be able to answer about every mechanic
 
 Well, those four questions sound very simple but, there's a lot to explain and the player must think that information about every single action in a few milliseconds.
 
-(place Hotline Maimi gif)
+(place Hotline Maimi gif) done
 
 And you could think, in Chess the player don't has to think faster than the others to win. Yes, but that's not the point. In chess you can prepare the strategy with time, but the basic mechanics of that strategy (Queen movement, Tower movement, etc) have to be thought as faster as you can to resolve it in your mind and improve you strategy.
 
@@ -42,9 +42,9 @@ Let's talk about the learning curve. To teach player your game mechanics it's ne
 
 Let's see an example:
 
-(place mega man pictures & explained)
+(place mega man pictures & explained) done
 
-Here, the developers of Mega man...
+Here, the developers of Mega man wanted to show a unique mechanic thorough the experience, the player see the platform functionality and is been anticipated. The next time megaman touches a plataform like that, you as a player will know how these things act.
 
 In conclusion, do not tell the player what to do, teach him a quarter part of the thing, and he himself will discover the rest of the game. He has to learn lots of dynamics for himself, so, give immediate feedback if player has understood it correctly every time. Clear goals are obviously necessary to situate the player in context, no ramblings. Every game has to be interactive, that means learn by playing. As a Chinese philosofer named Confucious said:
 
@@ -53,27 +53,29 @@ In conclusion, do not tell the player what to do, teach him a quarter part of th
 
 So, theres a few games that shows how to play, before the game starts! What does it mean? It's basically an interactive main menu and... thats correct! Is an strange way to teach player but, viable. Here is an example:
 
-(place here a picture of Toto Temple Delux, Main menu)
+(place here a picture of Toto Temple Delux, Main menu) done
 
 When player has to "dash" or "jump" to acced levels, and this knowledge are gonna be used later to play the game, it's nice because that means player has used and acquired this usable mechanics. This usualy happens in Arcade Games like Toto Temple, the game on the picture, but there's other creative ways to set this in other game genders.
 
 ### Game Experience
 Now we almost know how to teach gradually, but what about the "throw experience" term? That's simple, if pop-ups stops the inmersion, we have to teach player by other methods like "learning by example" or teach player involving him with scene elements that show (don't tell) what to do. Now, we are going to see a curous example about to games that pretend to teach exacty the same thing but with differents methods:
 
-(place a gif showing Dead Space mechanic)
+(place a gif showing Dead Space mechanic) done
 
 As you see, in Dead Space, your character has to dismember the enemies shooting them right in ahead. How do you theach the player this mechanic? Well, if you don't have time to think a creative way to teach player what to do, you just gonna put some text in a wall to tell (don't show) player: "Cut off yout limbs" on a white board, followed by a pop-up that tells you how to cut off their limbs, followed by audio log that basically tells you the same thing, folowed by another audio log that tells you the exact same thing and FINALLY a Pop-up called "dismemberment" that... tells you the same thing! Thats Horrible. I mean, put some blood text in the wall giving you some hints is it okay, buy spam information about the exactlly same thing its awkward.
 
+(place blood wall) done
+
 The thing is that a few years later, 4 years to be right, a little game come out called Half Life2, that did the exact same thing, and the first thing they do is put an image in your mind of a dimembered body by showing you this:
 
-(place Half Life 2 gif dismembered body)
+(place Half Life 2 gif dismembered body) done
 
 And when you try to keep moving, you see a table stopping your path, so, you jump on it and... 2 saw blades appear in you perspective vision. So, when you pick up one of them, instantly a zombi appears in your first view, and your first reaction is to press the fire button, so you shoot zombie and see what effective this is. THATS a good Tutorial Design, Valve teach player without pop-us, audios, wall text, and the most important is that they do it in a half time that Dead Space do.
 
 There is more examples about the good Design showed gradually by experience of Half Life 2:
 
-(place birds)
-(place barrles)
+(place birds) donne
+(place barrles) done
 
 In all thouse cases the game could told player: "Be carefull with this enemies, or combine explosive barrels with this enemiy to make'em explode" but, no, the conclusion is don't trate your players like morons.
 
@@ -82,6 +84,7 @@ In all thouse cases the game could told player: "Be carefull with this enemies, 
 Let's do an easy exercise to beef up what we learned. Imagine that the video below is the beginin cinematic of a game, describe how and what uses to teach player what is happening, and define the consequences of it. Is a good game tutorial design?
 
 [Video]( https://youtu.be/KQ6zr6kCPj8?t=117)
+(place imatge) done
 
 Answer: In fact, yes is a good introduction design. The video show player one simple but pillar thing thowgh experience, what is gonna happen if the protagonists do the same error as the actually infected guy. So starting from this, the protagonists adquire de dynamic of dancing to pretend beeing infeted to avoid dancing zombies.
 
@@ -89,29 +92,29 @@ Answer: In fact, yes is a good introduction design. The video show player one si
 
 The human mind tends to create patterns for absolutely ALL, let's have an interactive exemple to see that in practice.
 
-https://rolloid.net/wp-content/uploads/2016/09/muy-pocas-personas-son-capaces-de-encontrar-todas-las-caras-escondidas-en-esta-imagen-banner-696x364.jpg
+(place faces) done
 
 How many faces do you see here? The certain is that there is 13 faces designed to be found, but following the pattern that your mind autobuild for your necessity, you can see lots of extra faces not designed for. What if I show this:
 
-(place picture with 3 simple face)
+(place picture with 3 simple face) done
 
 The answer obvioulsy is 3 (beeing creative, the reflex of your face in the screen could count as 4). But, you see how easy and boring was this compared with the picture showed before? Well, that's because the patterns that your mind created was to easy and you has not apparently a reward for this, because its obvious and anyone can do it and that make you seem like the other, not especial.
 
 In the other hand, if I show you this:
 
-(place a picture of a mess line)
+(place a picture of a mess line) done
 
 You will probabbly frustrate after 1h searching faces, so the patterns that your mind create for understend the mechanism to find faces of this picture, will be insufficient. That gonna make player rage quit in less that 5 minutes. Do not mix up with games like Super meat boy or Dark Souls, that games are difficult but not unfair. And has one of the best learning curves of all time. The thing is find a balance that makes player's mind make a minimum effort to engage the player.
 
-(place here a gif of dark souls and super meat boy)
+(place here a gif of dark souls and super meat boy) done
 
 There are game like "Trap Adventure 2" that are difficult and unfair, this is bad design? No, if your selling points are all enfocated to be an unfair challenge, in other words, you are preventing player that game is gonna be. The name itself, says it all.
 
-(place here a gif of trap adventure)
+(place here a gif of trap adventure) done
 
 As designers we must find the best way to teach a minimal part of how start creating that way to create patterns, as we saw with the faces, the game Tic Tac Toe is so fun in the beginning, but a boring game in the long run. The patterns that our brain creates in Tic Tac Toe when you have been playing for a long time are obvious, therefore, the game stops entertaining.
 
-(place a photo of tic tac toe)
+(place a photo of tic tac toe) done
 
  ## Emergent Gameplay
 
@@ -124,7 +127,7 @@ That's it, create a way to make player think about what mechanics are gonna use 
 ### Multiplayer
 The multiplayer section is the definition of emergent gameplay, because all games (or the 99,99%) are designed to be reached, to let player win. But in multiplayer gameplay this is not even true! For exemple, battle royal has designed to only let win the 1% of all the players in the same match, so, EVERY SINGLE play will be different. You see now how this is the paradise of the emergent gameplay? Every single human act differently, that's why the multiplayer si famous. How to introuduce player to the multiplayer section? Easy:
 
-(place overwhatch tutorial)
+(place overwhatch tutorial) done
 
 The easy way to teach player how to play in multiplayer is playing the single player, don't you? But of course there are game that don't have single player, like overwatch. So, he uses a previous "singleplayer" tutorial introducing player the game pillar mechanics gradually with one character. And you gonna think... what about the popole who know how to play, has to play the turorial? No, it will be boring for you, so, all kind of tutorial like Overwatch must be skippeable. Also, games like Wow are totaly a surprise to Game Tutorial Design, but that are gonna be talked in the "Niche, and types of Target" section.
 
@@ -132,7 +135,7 @@ The easy way to teach player how to play in multiplayer is playing the single pl
 
 Tetris has one of the best designs created ever. That game doesen't need TUTORIAL, well, the real thing is that the whole game is a perfect tutorial. At the beginning, the pieces fall down relatively slow to let player think about what to do whit them, the mechanics are so so so simples, move and rotate, that's it. Every single person has a minimum of TOC inside, so if player knows how to move and rotate pieces, why shouldn't be ordered? Thats how Tetris teach you indirectly.
 
-(place here a picture of Tetrisat the beggining)
+(place here a picture of Tetris at the beggining) done
 
 That's not all, also Tetris has a powerfull emergent gameplay! With only two mechanics, tetris gives you the opportunity to go A->B in multiples ways.
 
@@ -140,20 +143,20 @@ That's not all, also Tetris has a powerfull emergent gameplay! With only two mec
 
 Games like Osu, Geometry Dash or Stepmania don't have emergent gameplay, why? That's because these games has one simple objective, survive and reach the end with less mistakes as possible. And... this games have a bad Design? Absolutely no, the goal here is simple, dominate the only basic mechanic as much as you can to did the best. That's why there is no emergent gameplay, because the player only has one way to win, but the thing is dominate that game. 
 
-(place a gif of osu and stepmania)
+(place a gif of osu and stepmania) done
 
 ## Safe Space
 
 Is it obvious that videogames need a safe space to tech player? I think no, in lots of games there is a safe space to let player try mechanics and test all buttons, but also, in the other hand are game that use other ways to enhance player knowledge and learning curve.
 
-(place photo about Pokemon)
+(place photo about Pokemon) done
 
 If you ever tryed to play pokemon, at the beggining you can't acced to the high grass because you don't have your frendly Pokemon, that's a beatyful way to teach people gradualy and let player a very big safe space to do whatever before learn the fight mechanics.
 
 But what about this:
 
-(place a gif about Spiderman)
-(place a gif about Uncharted Train Begin)
+(place a gif about Spiderman) done
+(place a gif about Uncharted Train Begin) done
 
 This is the definition of teach player as of tension, the freefall or the train coming down are two ways to tell player, if you don't act NOW, you are gonna die, so players will pretend to leant as fast as they can to survive. In conclusion, there are two methods to start teaching: 
 
@@ -166,23 +169,23 @@ Mario, Portal, Spiderman, Megaman... are extream tutorial games, that means 90% 
 
 ### Super Mario Bros, example
 
-(place a picture of mario in the start)
+(place a picture of mario in the start) done
 
 The first thing you find is a simple screen, with a small background. Sooner or later you will see that you have hands and that there are buttons, you will discover that by doing it you can do things. Once time you move around, you will realize that you are located on the left side of the screen, therefore, as an invisible wall does not allow you to pass, you will go to the right.
 
-(place a picture of a interrogative block)
+(place a picture of a interrogative block) done
 
 We move to the right, and the first thing we see is a blinking question block that prompts us to go to it.
 
-(place a picture of a gumpa in level 1 mario)
+(place a picture of a gumpa in level 1 mario) done
 
 But, just upon arrival, the next thing that appears on the screen is a monster with a face of hostility. It moves to the left, that makes us go back to the invisible wall we mentioned. We die Since the beginning of the level is close, the punishment is not very big, so we try again.
 
-(place a picture of mario jumpin into a gumpa)
+(place a picture of mario jumpin into a gumpa) done
 
 Now it's time to try new things. The player sees that there is a big red button (NES), and that when pressed the player jumps. So, he tries to jump on top of the enemy and kills him. WUALA!
 
-(place a photo of the champi)
+(place a photo of the champi) done
 
 When jumping on one of the blinking blocks we see that a strange mushroom with the same form of the enemie comes out in motion. The mushroom falls and teaches us that objects have free fall, bounces and goes towards us. We try to jump into it like the enemy before, but  we see that it makes our character's grow.
 
@@ -198,7 +201,7 @@ That question that im gonna ask is a little bit philosofical. Are Super Mario Br
 
 As we know, MMORPG are games designed to the grind, the target of this companies are types of person that likes role playing and farming trough repetitives patterns. But, as we said before the repetition of the same pattern makes the game boring, why these game have millions of players?
 
-(place here wow picture lots of players)
+(place here wow picture lots of players) done 
 
 Because there are competitive people that, to earn a "Legendary Reward" can be hour killing the same boss. It's easy, this target, this kind of people exists, and companies like Blizzard know this. Well, let's talk about how tutroial works on that multiplayer platforms. As we said before, the MMORPG games have a peculiar way to teach players. Basically the designers of this games know the target to which it is addressed the game, so, why waste time and money designin a "dynamic tutorial" as we saw in Mario, if the target are going to play anyway. If the company made an epic tutorial, a lot of new people will enter, but in the long run these people don't gonna love the grind style and get out. In conclusion, if games like WOW had dynamic tutorials they will lose time and money.
 
@@ -206,9 +209,13 @@ Because there are competitive people that, to earn a "Legendary Reward" can be h
 
 The shooters or role-playing games seeks to enhance level design. As we have commented before, this is the perfect kind of games that uses Showing Gradually Through Experience. Other kind of target that uses this are Roguelike or Soulslike. There's some examples:
 
-(place a picture of skyrim, explain it)
+(place a picture of skyrim, explain it) done
 
-(place a gif of Hollowknight, explain it)
+In Skyrim, player has to do parkour because, a dragon is threatening.
+
+(place a gif of Hollowknight, explain it) done
+
+Here in Hollow Knight, there's a big initial safe space to try all buttons.
 
 ### Same tutorial for Advanced and Rookie people?
 
@@ -225,11 +232,11 @@ Put into practice what you have learned before:
 
 * Answer:
 
-(place a picture of room 1 Final fantasy)
+(place a picture of room 1 Final fantasy) done
 
 This picture is about the first room of our Game, Final Fantasy mystery world by Polar Path. As we can see in Super Mario Bros, there's nothing more than one side to go, in this case the opened door. So, the player will try to move around and reach the exit.
 
-(place a picture of room 2)
+(place a picture of room 2) done
 
 This is the second room of our game, where the player is supposed to learn how move diagonally. Here, the player will see at first time an enemy walking on the top (2nd floor), anticipate player is important. He will learn about what black tiles, hooked out of level, does and finally the enemy will do the action, move diagonal. This event will be near the zone where the player has to do the diagonal pass. The enemy will walk until the other black tile in the 2nd floor.
 
