@@ -1,4 +1,7 @@
 
+Hi! I am [Marc Gálvez Llorens](https://github.com/optus23), student at the university [CITM Terrassa](https://www.citm.upc.edu/). This research comes out from the subject Project II, which has instructed by [Ricard Pillosu](https://github.com/d0n3val).
+
+
 ## Why Tutorials have bad reputation?
 
 Tutorials are probably one of the most important things in the experience of your game, and guess what... NOBODY CARES!! 
@@ -230,6 +233,11 @@ This picture is about the first room of our Game, Final Fantasy mystery world by
 
 This is the second room of our game, where the player is supposed to learn how move diagonally. Here, the player will see at first time an enemy walking on the top (2nd floor), anticipate player is important. He will learn about what black tiles, hooked out of level, does and finally the enemy will do the action, move diagonal. This event will be near the zone where the player has to do the diagonal pass. The enemy will walk until the other black tile in the 2nd floor.
 
+
+
+
+
+* Tank you for reading this!
 
 
 
