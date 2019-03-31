@@ -159,6 +159,33 @@ This is the definition of teach player as of tension, the freefall or the train 
 
 ## Extrem cases of tutorial
 
+Mario, Portal, Spiderman, Megaman... are extream tutorial games, that means 90% of the game is about teach through experience and gradually. In this case we are going to talk about every step that makes mario in the beginning. This Game example is a masterpiece of level design, everything you see in the first level teaches you to play without telling you absolutely nothing.
+
+### Super Mario Bros, example
+
+(place a picture of mario in the start)
+
+The first thing you find is a simple screen, with a small background. Sooner or later you will see that you have hands and that there are buttons, you will discover that by doing it you can do things. Once time you move around, you will realize that you are located on the left side of the screen, therefore, as an invisible wall does not allow you to pass, you will go to the right.
+
+(place a picture of a interrogative block)
+
+We move to the right, and the first thing we see is a blinking question block that prompts us to go to it.
+
+(place a picture of a gumpa in level 1 mario)
+
+But, just upon arrival, the next thing that appears on the screen is a monster with a face of hostility. It moves to the left, that makes us go back to the invisible wall we mentioned. We die Since the beginning of the level is close, the punishment is not very big, so we try again.
+
+(place a picture of mario jumpin into a gumpa)
+
+Now it's time to try new things. The player sees that there is a big red button (NES), and that when pressed the player jumps. So, he tries to jump on top of the enemy and kills him. WUALA!
+
+(place a photo of the champi)
+
+When jumping on one of the blinking blocks we see that a strange mushroom with the same form of the enemie comes out in motion. The mushroom falls and teaches us that objects have free fall, bounces and goes towards us. We try to jump into it like the enemy before, but  we see that it makes our character's grow.
+
+This game is very functional, every single level of Super Mario Bros is like this steps, all tech player by experience.
+
+
 
 ## Niche, and types of Target
 
