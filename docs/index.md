@@ -271,7 +271,7 @@ This is where I got the information from:
 
 [GDC](https://www.youtube.com/watch?v=VM1pV_6IE34)
 
-[Leyenda y Videojuegos](https://www.youtube.com/watch?v=TFXanasX6y0&feature=youtu.be)
+[Leyendas y Videojuegos](https://www.youtube.com/watch?v=TFXanasX6y0&feature=youtu.be)
 
 [Art of Game Design](http://www.sg4adults.eu/files/art-game-design.pdf)
 
