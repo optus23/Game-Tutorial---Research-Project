@@ -79,7 +79,7 @@ There is more examples about the good Design showed gradually by experience of H
 
 In all thouse cases the game could told player: "Be carefull with this enemies, or combine explosive barrels with this enemiy to make'em explode" but, no, the conclusion is: don't trate your players like morons.
 
-## Execice 1
+## Exercice 1
 
 Let's do an easy exercise to beef up what we learned. Imagine that the video below is the beginin cinematic of a game, describe how and what uses to teach player what is happening, and define the consequences of it. Is a good game tutorial design?
 
