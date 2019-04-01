@@ -258,19 +258,26 @@ This is the second room of our game, where the player is supposed to learn how m
 
 
 
-* Tank you for reading this!
 
+* Tank you for reading this!
 
 
 This is where I got the information from:
 
 [School of Game Design](https://schoolofgamedesign.com/project/good-video-game-tutorial/)
+
 [GDC](https://www.youtube.com/watch?v=VM1pV_6IE34)
+
 [Leyenda y Videojuegos](https://www.youtube.com/watch?v=TFXanasX6y0&feature=youtu.be)
+
 [Art of Game Design](http://www.sg4adults.eu/files/art-game-design.pdf)
+
 [Theory of Fun](https://www.raphkoster.com/gaming/gdco12/Koster_Raph_Theory_Fun_10.pdf)
+
 [Spider-Man: Attention To Detail](https://www.youtube.com/watch?v=ZDvUEeMJcRA)
+
 [Gamasutra](https://www.gamasutra.com/blogs/DevJana/20150202/182335/Why_is_Tetris_a_mathematically_perfect_game_design_that_requires_no_tutorial.php)
+
 [Egoraptor](https://www.youtube.com/watch?v=8FpigqfcvlM)
 
 
