@@ -1,6 +1,8 @@
 
 Hi! I am [Marc Gálvez Llorens](https://github.com/optus23), student at the university [CITM Terrassa](https://www.citm.upc.edu/). This research comes out from the subject Project II, which has instructed by [Ricard Pillosu](https://github.com/d0n3val).
 
+Check my Github [Repository](https://github.com/optus23/Game-Tutorial---Research-Project)
+
 
 ## Why Tutorials have bad reputation?
 
