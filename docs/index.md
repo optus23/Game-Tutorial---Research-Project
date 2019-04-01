@@ -150,7 +150,7 @@ The easy way to teach player how to play in multiplayer is playing the single pl
 
 Tetris has one of the best designs created ever. That game doesen't need TUTORIAL, well, the real thing is that the whole game is a perfect tutorial. At the beginning, the pieces fall down relatively slow to let player think about what to do whit them, the mechanics are so so so simples, move and rotate, that's it. Every single person has a minimum of TOC inside, so if player knows how to move and rotate pieces, why shouldn't be ordered? Thats how Tetris teach you indirectly.
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/Original Tetris for PC - Gameplay 01.jpg?raw=true" width="500"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/Original Tetris for PC - Gameplay 01.gif?raw=true" width="500"/>
 
 That's not all, also Tetris has a powerfull emergent gameplay! With only two mechanics, tetris gives you the opportunity to go A->B in multiples ways.
 
@@ -160,7 +160,7 @@ Games like Osu, Geometry Dash or Stepmania don't have emergent gameplay, why? Th
 
 <img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/ActiveWelldocumentedFritillarybutterfly-size_restricted.gif?raw=true" width="500"/>
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/Olimitless.gif?raw=true" width="500"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/limitless.gif?raw=true" width="500"/>
 
 ## Safe Space
 
@@ -267,14 +267,14 @@ This is the second room of our game, where the player is supposed to learn how m
 
 This is where I got the information from:
 
-https://schoolofgamedesign.com/project/good-video-game-tutorial/
-https://www.youtube.com/watch?v=VM1pV_6IE34
-https://www.youtube.com/watch?v=TFXanasX6y0&feature=youtu.be
-http://www.sg4adults.eu/files/art-game-design.pdf
-https://www.raphkoster.com/gaming/gdco12/Koster_Raph_Theory_Fun_10.pdf
-https://www.youtube.com/watch?v=ZDvUEeMJcRA
-https://www.gamasutra.com/blogs/DevJana/20150202/182335/Why_is_Tetris_a_mathematically_perfect_game_design_that_requires_no_tutorial.php
-
+[School of Game Design](https://schoolofgamedesign.com/project/good-video-game-tutorial/)
+[GDC](https://www.youtube.com/watch?v=VM1pV_6IE34)
+[Leyenda y Videojuegos](https://www.youtube.com/watch?v=TFXanasX6y0&feature=youtu.be)
+[Art of Game Design](http://www.sg4adults.eu/files/art-game-design.pdf)
+[Theory of Fun](https://www.raphkoster.com/gaming/gdco12/Koster_Raph_Theory_Fun_10.pdf)
+[Spider-Man: Attention To Detail](https://www.youtube.com/watch?v=ZDvUEeMJcRA)
+[Gamasutra](https://www.gamasutra.com/blogs/DevJana/20150202/182335/Why_is_Tetris_a_mathematically_perfect_game_design_that_requires_no_tutorial.php)
+[Egoraptor](https://www.youtube.com/watch?v=8FpigqfcvlM)
 
 
 
