@@ -77,9 +77,8 @@ And when you try to keep moving, you see a table stopping your path, so, you jum
 There is more examples about the good Design showed gradually by experience of Half Life 2:
 
 <img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/This is a Talk About Tutorials_ Press A to Skip 057.gif?raw=true" width="500"/>
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/This is a Talk About Tutorials_ Press A to Skip 08.gif?raw=true" width="500"/>
 
-In all thouse cases the game could told player: "Be carefull with this enemies, or combine explosive barrels with this enemiy to make'em explode" but, no, the conclusion is don't trate your players like morons.
+In all thouse cases the game could told player: "Be carefull with this enemies, or combine explosive barrels with this enemiy to make'em explode" but, no, the conclusion is: don't trate your players like morons.
 
 ## Execice 1
 
