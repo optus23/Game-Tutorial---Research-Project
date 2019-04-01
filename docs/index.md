@@ -17,11 +17,11 @@ Look at this:
 
 Who reads this? This Pop-ups or Game Controller schemes can't be in these games! They break the gameplay and stay player immersive away. But obviously there are a lot of games that are allowed to use this resource that are going to be explained later as well. 
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/This is a Talk About Tutorials_ Press A to Skip 03.gif?raw=true" width="500"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/This is a Talk About Tutorials_ Press A to Skip 03.gif?raw=true" width="400"/>
 
 This happens when developers thinks that it's very hard to find and put every controller and keyboard prompt in his game. But that can frustrate player and it's so important that your game doesn't have this errors, because if player can't continue, you failed as a designer. That's because  I'm gonna give you a totally free pack of prompts assets in the followin [link](https://thoseawesomeguys.com/prompts/):
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/Preview_0.gif?raw=true" width="400"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/Preview_0.gif?raw=true" width="350"/>
 
 ## Teach Gradually Through Experience
 
@@ -54,8 +54,7 @@ In conclusion, do not tell the player what to do, teach him a quarter part of th
 
 So, theres a few games that shows how to play, before the game starts! What does it mean? It's basically an interactive main menu and... thats correct! Is an strange way to teach player but, viable. Here is an example:
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/ccs-209764-0-85129300-1415871010.gif?raw=true" width="500"/>
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/TlK63EEXTssjzGBZhKM.gif?raw=true" width="500"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/ccs-209764-0-85129300-1415871010.gif?raw=true" width="350"/> <img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/TlK63EEXTssjzGBZhKM.gif?raw=true" width="350"/>
 
 When player has to "dash" or "jump" to acced levels, and this knowledge are gonna be used later to play the game, it's nice because that means player has used and acquired this usable mechanics. This usualy happens in Arcade Games like Toto Temple, the game on the picture, but there's other creative ways to set this in other game genders.
 
@@ -117,7 +116,7 @@ There are game like "Trap Adventure 2" that are difficult and unfair, this is ba
 
 As designers we must find the best way to teach a minimal part of how start creating that way to create patterns, as we saw with the faces, the game Tic Tac Toe is so fun in the beginning, but a boring game in the long run. The patterns that our brain creates in Tic Tac Toe when you have been playing for a long time are obvious, therefore, the game stops entertaining.
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/hand-drawn-tic-tac-toe-game-stock-photo-880911.jpg?raw=true" width="500"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/hand-drawn-tic-tac-toe-game-stock-photo-880911.jpg?raw=true" width="300"/>
 
  ## Emergent Gameplay
 
@@ -131,11 +130,11 @@ That's it, create a way to make player think about what mechanics are gonna use 
 
 The change is this:
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/picture1.jpg?raw=true" width="500"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/picture1.jpg?raw=true" width="250"/>
 
 to this:
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/picture6.jpg?raw=true" width="500"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/picture6.jpg?raw=true" width="250"/>
 
 But does all games need emergent gameplay? We are gonnna talk it later.
 
@@ -166,14 +165,12 @@ Games like Osu, Geometry Dash or Stepmania don't have emergent gameplay, why? Th
 
 Is it obvious that videogames need a safe space to tech player? I think no, in lots of games there is a safe space to let player try mechanics and test all buttons, but also, in the other hand are game that use other ways to enhance player knowledge and learning curve.
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/tumblr_lnou42XfHy1qmnmf3o1_400.gif?raw=true" width="500"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/tumblr_lnou42XfHy1qmnmf3o1_400.gif?raw=true" width="350"/>
 If you ever tryed to play pokemon, at the beggining you can't acced to the high grass because you don't have your frendly Pokemon, that's a beatyful way to teach people gradualy and let player a very big safe space to do whatever before learn the fight mechanics.
 
 But what about this:
 
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/SPIDER-MAN PS4 Walkthrough Gameplay Part 1 - INTRO (Marvel_s Spider-Man) 03.gif?raw=true" width="500"/>
-
-<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/GUIAUNCHARTED.jpg?raw=true" width="500"/>
+<img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/SPIDER-MAN PS4 Walkthrough Gameplay Part 1 - INTRO (Marvel_s Spider-Man) 03.gif?raw=true" width="350"/> <img src="https://github.com/optus23/Game-Tutorial---Research-Project/blob/master/docs/Wiki%20Images/GUIAUNCHARTED.jpg?raw=true" width="350"/>
 
 This is the definition of teach player as of tension, the freefall or the train coming down are two ways to tell player, if you don't act NOW, you are gonna die, so players will pretend to leant as fast as they can to survive. In conclusion, there are two methods to start teaching: 
 
